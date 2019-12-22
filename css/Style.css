@@ -1,0 +1,39 @@
+/* ------Tags --------*/
+h1
+{
+  /*background-color: #ff896b;*/
+  padding: 10px;
+  margin: 0;
+  width:150px;
+  font-family: 'Headland One', serif;
+}
+ul{
+  margin: 0;
+}
+
+body{
+  margin: auto;
+
+}
+
+
+/*-------class------*/
+.item{
+
+  font-family: 'Merriweather', serif;
+  display: inline;
+  padding: 20px;
+}
+.item:hover{
+  background-color: #ebe6e6;
+}
+.nav-item{
+  float:right;
+  background-color: #ff896b;
+  position: relative;
+  bottom: 40px;
+
+}
+.navbar{
+  background-color: #ff896b;
+}
